@@ -1,0 +1,7 @@
+asn1==2.7.0
+enum-compat==0.0.3
+future==0.18.3
+iniconfig==2.0.0
+packaging==23.1
+pluggy==1.2.0
+pyscard==2.0.7
